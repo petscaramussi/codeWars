@@ -43,7 +43,7 @@ Don't forget the space after the closing parentheses!
 ```
 <br><br>
 
-<h4> Kata 4 - Vowel Count </h4>
+<h3> Kata 4 - Vowel Count </h3>
 
 Return the number (count) of vowels in the given string.
 
@@ -53,7 +53,7 @@ The input string will only consist of lower case letters and/or spaces.
 
 <br><br>
 
-<h4> Kata 5 - Multiply </h4>
+<h3> Kata 5 - Multiply </h3>
 
 This code does not execute properly. Try to figure out why.
 
