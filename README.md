@@ -66,9 +66,12 @@ In this simple Kata your task is to create a function that turns a string into a
 Rules
  1.  The input string will always be lower case but maybe empty.
 
- 2.  If the character in the string is whitespace then pass over it as if it was an empty seat
-Example
-wave("hello") => []string{"Hello", "hEllo", "heLlo", "helLo", "hellO"}
+ 2.  If the character in the string is whitespace then pass over it as if it was an empty seat.
 
+Example:
+
+```
+wave("hello") => []string{"Hello", "hEllo", "heLlo", "helLo", "hellO"}
+```
 
 
